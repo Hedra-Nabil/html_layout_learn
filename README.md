@@ -31,5 +31,3 @@ If you want, I can also:
 - translate this README back to Arabic and keep both versions in the repo.
 - generate small thumbnails for each page and update this README with previews.
 
----
-README updated to English for GitHub visitors.
